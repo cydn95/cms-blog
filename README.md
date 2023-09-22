@@ -15,7 +15,7 @@ Development
 ### Setup
 1. Get the code.
 
-        % git clone git@github.com:cydn95/portfolio.git
+        % git clone git@github.com:cydn95/cms-blog.git
 
 2. Setup your environment.
 
@@ -52,4 +52,4 @@ License
 
 Troubleshooting
 -------
- Please create an [issue](https://github.com/cydn/portfolio/issues).
+ Please create an [issue](https://github.com/cydn95/cms-blog/issues).
